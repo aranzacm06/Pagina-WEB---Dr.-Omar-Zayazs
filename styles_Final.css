@@ -51,30 +51,6 @@ h3 {
   background: linear-gradient(180deg, rgba(0, 32, 69, 0.08) 0%, rgba(0, 32, 69, 0.18) 100%);
 }
 
-.innovation-aside {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.innovation-aside img {
-  max-width: 400px;   
-  width: 100%;
-  height: auto;
-  object-fit: contain;
-}
-
-.innovation-visual-frame {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: auto;           
-  padding: 2rem;      
-}
-
-.innovation-logo {
-  border-radius: 16px;
-}
 
 .second-opinion-highlight {
   position: relative;
